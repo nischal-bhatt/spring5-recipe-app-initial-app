@@ -101,7 +101,7 @@ public class RecipeBootstrap implements ApplicationListener<ContextRefreshedEven
 
         //Yummy Guac
         Recipe guacRecipe = new Recipe();
-        guacRecipe.setDescription("Perfect Guacamole");
+        guacRecipe.setDescription("Perfect Guacamole - another change pls reflect");
         guacRecipe.setPrepTime(10);
         guacRecipe.setCookTime(0);
         guacRecipe.setDifficulty(Difficulty.EASY);
